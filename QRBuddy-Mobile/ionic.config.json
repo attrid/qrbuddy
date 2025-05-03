@@ -1,7 +1,0 @@
-{
-  "name": "QRBuddy-Mobile",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
